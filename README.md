@@ -1,15 +1,18 @@
 
 문화재청2021공공빅데이터공모전<br>
-[Source Code](https://github.com/Taein2/ContestExhibit/blob/master/%EB%AC%B8%ED%99%94%EC%9E%AC%EC%B2%AD2021%EA%B3%B5%EA%B3%B5%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%B5%EB%AA%A8%EC%A0%84/%EB%AC%B8%ED%99%94%EC%9E%AC.ipynb)
-[문화재청 발표 자료](https://github.com/Taein2/ContestExhibit/blob/master/%EB%AC%B8%ED%99%94%EC%9E%AC%EC%B2%AD2021%EA%B3%B5%EA%B3%B5%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%B5%EB%AA%A8%EC%A0%84/CDA%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+코드 : [Source Code](https://github.com/Taein2/ContestExhibit/blob/master/%EB%AC%B8%ED%99%94%EC%9E%AC%EC%B2%AD2021%EA%B3%B5%EA%B3%B5%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%B5%EB%AA%A8%EC%A0%84/%EB%AC%B8%ED%99%94%EC%9E%AC.ipynb)
+
+자료 : [문화재청 발표 자료](https://github.com/Taein2/ContestExhibit/blob/master/%EB%AC%B8%ED%99%94%EC%9E%AC%EC%B2%AD2021%EA%B3%B5%EA%B3%B5%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%B5%EB%AA%A8%EC%A0%84/CDA%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
 Compas 광양시재활용자동수거기최적위치선정<br>
-[Source Code](https://github.com/Taein2/ContestExhibit/blob/master/compas%EA%B4%91%EC%96%91%EC%8B%9C%EC%9E%AC%ED%99%9C%EC%9A%A9%EC%9E%90%EB%8F%99%EC%88%98%EA%B1%B0%EA%B8%B0%EC%B5%9C%EC%A0%81%EC%9C%84%EC%B9%98%EC%84%A0%EC%A0%95/%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9D%98%EA%BF%88%EC%9D%80%ED%87%B4%EC%82%AC%EC%B5%9C%EC%A2%85.ipynb)
-[LH 발표 자료](https://github.com/Taein2/ContestExhibit/blob/master/compas%EA%B4%91%EC%96%91%EC%8B%9C%EC%9E%AC%ED%99%9C%EC%9A%A9%EC%9E%90%EB%8F%99%EC%88%98%EA%B1%B0%EA%B8%B0%EC%B5%9C%EC%A0%81%EC%9C%84%EC%B9%98%EC%84%A0%EC%A0%95/%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9D%98%EA%BF%88%EC%9D%80%ED%87%B4%EC%82%AC.pdf)
+코드 : [Source Code](https://github.com/Taein2/ContestExhibit/blob/master/compas%EA%B4%91%EC%96%91%EC%8B%9C%EC%9E%AC%ED%99%9C%EC%9A%A9%EC%9E%90%EB%8F%99%EC%88%98%EA%B1%B0%EA%B8%B0%EC%B5%9C%EC%A0%81%EC%9C%84%EC%B9%98%EC%84%A0%EC%A0%95/%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9D%98%EA%BF%88%EC%9D%80%ED%87%B4%EC%82%AC%EC%B5%9C%EC%A2%85.ipynb)
+
+자료 : [LH 발표 자료](https://github.com/Taein2/ContestExhibit/blob/master/compas%EA%B4%91%EC%96%91%EC%8B%9C%EC%9E%AC%ED%99%9C%EC%9A%A9%EC%9E%90%EB%8F%99%EC%88%98%EA%B1%B0%EA%B8%B0%EC%B5%9C%EC%A0%81%EC%9C%84%EC%B9%98%EC%84%A0%EC%A0%95/%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9D%98%EA%BF%88%EC%9D%80%ED%87%B4%EC%82%AC.pdf)
 
 서울시 빅데이터 공모전<br>
-source code 반출 불가
-[서울시 pdf 자료](https://github.com/Taein2/ContestExhibit/blob/master/%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B3%B5%EB%AA%A8%EC%A0%84/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9E%91%EA%B3%A1%EA%B0%80.pdf)
+코드 : source code 반출 불가
+
+자료 : [서울시 pdf 자료](https://github.com/Taein2/ContestExhibit/blob/master/%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B3%B5%EB%AA%A8%EC%A0%84/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9E%91%EA%B3%A1%EA%B0%80.pdf)
 
 데멘토(데이터멘토링)<br>
 [통합 데이터 지도 스토리](https://www.bigdata-map.kr/datastory/new/story_31)
