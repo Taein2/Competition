@@ -1,9 +1,5 @@
 ## 파일 무시
 *.hwp
-<<<<<<< HEAD
-./dataset/
 *.pptx
 *.mp4
-=======
-dataset/
->>>>>>> c726a258b68ac2cf6edccc649ab072b3274f2544
+./dataset/
