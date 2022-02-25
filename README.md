@@ -23,3 +23,8 @@ Fnguide금융아이디어경진대회<br>
 
 > 코드 : [Source Code](https://github.com/Taein2/ContestExhibit/blob/master/Fnguide%EA%B8%88%EC%9C%B5%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/%EA%B8%88%EC%9C%B5%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%EC%BD%94%EB%93%9C-%EA%B9%80%ED%83%9C%EC%9D%B8%2C%EA%B9%80%EB%8B%A4%EC%8A%AC%2C%EA%B9%80%EC%A0%95%EC%95%88.ipynb)<br>
 > 자료 : [금융 발표 자료](https://github.com/Taein2/ContestExhibit/blob/master/Fnguide%EA%B8%88%EC%9C%B5%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/%EA%B8%88%EC%9C%B5%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EB%B0%9C%ED%91%9CPPT_%20%EA%B9%80%ED%83%9C%EC%9D%B8%2C%20%EA%B9%80%EB%8B%A4%EC%8A%AC%2C%20%EA%B9%80%EC%A0%95%EC%95%88.pdf)
+
+현대중공업그룹 BIGDATA/AI 경진대회<br>
+
+> 코드 : [Source Code]()<br>
+> 자료 : [발표 자료](https://github.com/Taein2/ContestExhibit/blob/master/%ED%98%84%EB%8C%80%EC%A4%91%EA%B3%B5%EC%97%85%EA%B7%B8%EB%A3%B9%20AI%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/Overflow%EB%B0%9C%ED%91%9C%EC%9A%A9.pdf)
