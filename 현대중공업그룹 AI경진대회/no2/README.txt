@@ -1,5 +1,5 @@
 python version : 3.8
-
+CUDA:11.2
 
 ```
 conda create -n comp2 python=3.8
